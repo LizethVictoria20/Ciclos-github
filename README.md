@@ -1,2 +1,2 @@
-# ejerciciosCiclos.GitHub
+# ejerciciosCiclos
 Ciclos!
